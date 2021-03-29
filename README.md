@@ -1,4 +1,10 @@
+CONCORDIA UNIVERSITY
+FACULTY OF ENGINEERING AND COMPUTER SCIENCE
+
+Course Outline:
+MECH 47  Mechatronics - INVERTED PENDULUM
 # Inverterd_Pendulum
+
 Objective
 	The objective of the Mechatronic project is to understand how to efficiently stabilize a static system becoming unstable when inverting a simple pendulum from rest. The mathematical system will be integrated in the control system that will first invert a pendulum upwards by moving horizontally a cart with a pendulum. A DC-motor, installed on the cart, represents the force to the pendulum driving on a pinion as observed on the mathematical model on page 9 . 
 The inverted pendulum is a classical and fundamental Control Systems model. The challenge is to balance a pendulum vertically upwards from rest, using a mobile cart that can move horizontally in two directions left or right. 
